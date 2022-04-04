@@ -20,3 +20,8 @@ p{
     width: 200px;
 }
 
+#box-container{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
